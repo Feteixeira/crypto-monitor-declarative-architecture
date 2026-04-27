@@ -16,6 +16,7 @@ import androidx.compose.runtime.collectAsState
 import androidx.compose.ui.tooling.preview.Preview
 import github.com.Feteixeira.crypto_monitor_declarative_architecture.model.Ticker
 import github.com.Feteixeira.crypto_monitor_declarative_architecture.model.TickerResponse
+import github.com.Feteixeira.crypto_monitor_declarative_architecture.ui.theme.CryptomonitorTheme
 import github.com.Feteixeira.crypto_monitor_declarative_architecture.viewmodel.CryptoUiState
 import github.com.Feteixeira.crypto_monitor_declarative_architecture.viewmodel.CryptoViewModel
 

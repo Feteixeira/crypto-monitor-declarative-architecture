@@ -8,8 +8,8 @@ import androidx.activity.viewModels
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
+import github.com.Feteixeira.crypto_monitor_declarative_architecture.ui.theme.CryptomonitorTheme
 import github.com.Feteixeira.crypto_monitor_declarative_architecture.ui.theme.screens.CryptoMonitorScreen
-import github.com.Feteixeira.crypto_monitor_declarative_architecture.ui.theme.screens.CryptomonitorTheme
 import github.com.Feteixeira.crypto_monitor_declarative_architecture.viewmodel.CryptoViewModel
 
 /**
